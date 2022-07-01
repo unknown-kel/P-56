@@ -10,3 +10,5 @@ git clone https://github.com/unknown-kel/P-56
 cd P-56
 python scout.py
 ```
+
+##Thanks For Using Our Script
